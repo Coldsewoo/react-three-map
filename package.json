@@ -1,15 +1,15 @@
 {
-  "name": "react-three-map",
+  "name": "react-three-map-8",
   "version": "0.8.2",
   "description": "Use react-three-fiber inside MapLibre and Mapbox",
   "main": "dist/cjs/main.js",
   "module": "dist/es/main.mjs",
   "types": "dist/types/mapbox.index.d.ts",
   "sideEffects": false,
-  "repository": "https://github.com/RodrigoHamuy/react-three-map",
-  "homepage": "https://github.com/RodrigoHamuy/react-three-map",
+  "repository": "https://github.com/Coldsewoo/react-three-map",
+  "homepage": "https://github.com/Coldsewoo/react-three-map",
   "bugs": {
-    "url": "https://github.com/RodrigoHamuy/react-three-map/issues"
+    "url": "https://github.com/Coldsewoo/react-three-map/issues"
   },
   "license": "MIT",
   "author": "RodrigoHamuy",
