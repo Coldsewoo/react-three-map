@@ -4803,7 +4803,7 @@ map-obj@^4.0.0:
   resolved "https://registry.yarnpkg.com/map-obj/-/map-obj-4.3.0.tgz#9304f906e93faae70880da102a9f1df0ea8bb05a"
   integrity sha512-hdN1wVrZbb29eBGiGjJbeP8JbKjq1urkHJ/LIP/NY48MZ1QVXUsQBV1G1zvYFHn1XE06cwjBsOI2K3Ulnj1YXQ==
 
-mapbox-gl@^3.5.0:
+mapbox-gl@^3.9.4:
   version "3.9.4"
   resolved "https://registry.yarnpkg.com/mapbox-gl/-/mapbox-gl-3.9.4.tgz#a80777d4f57267e021001337b712ac2c28cfd15e"
   integrity sha512-IxfpdyNzjCMzkqj/q5OUamlF1QcS+IFEARteygEgao2B8l8+UF2ahpNRgHT2EpMSE8ma1bq4LKvr+EuJ6gqniw==
@@ -6185,6 +6185,11 @@ react-refresh@^0.14.0:
   version "0.14.0"
   resolved "https://registry.yarnpkg.com/react-refresh/-/react-refresh-0.14.0.tgz#4e02825378a5f227079554d4284889354e5f553e"
   integrity sha512-wViHqhAd8OHeLS/IRMJjTSDHF3U9eWi62F/MledQGPdJGDhodXJ9PBLNGr6WWL7qlH12Mt3TyTpbS+hGXMjCzQ==
+
+react-three-map@^0.8.2:
+  version "0.8.2"
+  resolved "https://registry.yarnpkg.com/react-three-map/-/react-three-map-0.8.2.tgz#acf9da0ba0d06a17c486b1bebd7705462b76d1c1"
+  integrity sha512-y7P0uNOQftIawsSvbquC9DWlWPFYfk1EintCyQk45ihDt6VXCxkX/vlLwZLADDCAScQA5xH1LuR5G2NRtl1ysg==
 
 react-use-measure@^2.1.1:
   version "2.1.1"
