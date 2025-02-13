@@ -19,7 +19,7 @@ const fromLngLat = MercatorCoordinate.fromLngLat
 /** `react-three-fiber` canvas inside `Mapbox` */
 export const Canvas = memo<CanvasProps>(({ overlay, ...props }) => {
 
-  const map = useMap()?.current!.getMap(); // eslint-disable-line @typescript-eslint/no-non-null-assertion
+  const map = useMap().current?.getMap(); // eslint-disable-line @typescript-eslint/no-non-null-assertion
   
   if(map == null) return null;
 
